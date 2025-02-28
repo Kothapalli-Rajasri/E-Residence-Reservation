@@ -66,7 +66,7 @@ function Log({ title, showRegister }) {
     };
 
     const handleRegister = () => {
-        navigate('/studentdetails');
+        navigate('/reg');
     };
 
     return (
